@@ -1,0 +1,9 @@
+{
+  "name": "arabian-bakery-website",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Arabian Bakery Kulathupuzha — arabianbakery.com",
+  "scripts": {
+    "start": "python -m http.server 8000"
+  }
+}

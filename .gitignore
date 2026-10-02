@@ -1,0 +1,5 @@
+# Backup of the previous website (kept locally, not published)
+_old-site/
+.claude/
+Thumbs.db
+.DS_Store

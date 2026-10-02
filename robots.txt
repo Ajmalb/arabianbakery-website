@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://arabianbakery.com/sitemap.xml
